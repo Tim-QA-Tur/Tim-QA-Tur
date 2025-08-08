@@ -1,6 +1,6 @@
 ## Hello 👋
 
-## 📊 Статистика
+## 📊 Statistics
 ![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=Tim-QA-Tur
 )
 ![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=Tim-QA-Tur
@@ -88,7 +88,7 @@
 <br>
 <br>
 
-## 🤝 Контакт
+## 🤝 Contact
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:5709037@mail.ru)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/tim_tur)
 
