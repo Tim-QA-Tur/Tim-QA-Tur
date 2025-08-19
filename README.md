@@ -26,7 +26,7 @@
 
 ## Testing of Web and Mobile applications
 <div>
-  <img src="https://i.pinimg.com/736x/2b/f7/4a/2bf74a8d06500e57f0c4175cbf57354e.jpg" title="CSS" alt="CSS" width="80" height="30"/>&nbsp
+  <img src="https://i.pinimg.com/736x/2b/f7/4a/2bf74a8d06500e57f0c4175cbf57354e.jpg" title="CSS" alt="CSS" width="60" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" title="Figma" alt="Figma" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" title="HTTP" alt="HTTP" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp
